@@ -4,7 +4,6 @@ API
 YAST
 -------
 
-
 .. code:: python
 
     class Yast.YAST(name, config=None)
@@ -13,7 +12,6 @@ YAST
 
 Train and Test
 ---
-
 
 .. code:: python
 

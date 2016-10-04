@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'YAST_doc'
+project = u'YAST'
 copyright = u'2016, jinyang'
 author = u'jinyang'
 
