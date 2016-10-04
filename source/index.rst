@@ -6,13 +6,13 @@
 Welcome to YAST_doc's documentation!
 ====================================
 .. warning::
-    YAST didn't test on Python 3
+   YAST didn't test on Python 3
 
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+   :glob:
 
-    intro
-    API
+   *
