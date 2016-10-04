@@ -1,7 +1,7 @@
-API
+APIs
 =======
 
-YAST
+Yast
 -------
 
 .. code:: python
@@ -11,7 +11,7 @@ YAST
 
 
 Train and Test
----
+-------
 
 .. code:: python
 
