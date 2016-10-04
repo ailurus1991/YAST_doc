@@ -5,18 +5,11 @@
 
 Welcome to YAST_doc's documentation!
 ====================================
-
-Contents:
+.. warning::
+    YAST didn't test on Python 3
 
 .. toctree::
    :maxdepth: 2
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
+    intro
+    API

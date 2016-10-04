@@ -1,1 +1,1 @@
-Search.setIndex({envversion:49,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to YAST_doc&#8217;s documentation!"],titleterms:{document:0,indice:0,tabl:0,welcom:0,yast_doc:0}})
+Search.setIndex({envversion:49,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:[],didn:0,index:[],modul:[],page:[],python:0,search:[],test:0,yast:0},titles:["Welcome to YAST_doc&#8217;s documentation!"],titleterms:{document:0,indice:[],tabl:[],welcom:0,yast_doc:0}})
